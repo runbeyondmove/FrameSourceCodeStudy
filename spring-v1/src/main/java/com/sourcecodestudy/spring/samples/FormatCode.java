@@ -15,7 +15,7 @@ public class FormatCode {
 	 * 获得引用的beanName
 	 */
 	public String getBeanName() {
-		Class<T>
+		//Class<T>
 		return this.beanName;
 	}
 }
